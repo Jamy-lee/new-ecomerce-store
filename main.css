@@ -1,0 +1,24 @@
+#products {
+  flex-wrap: wrap;
+}
+
+#products img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.card {
+  width: calc(130% / 4);
+  padding: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#h1 {
+  text-align: center;
+  font-size: 30px;
+}
+.button {
+  padding: 5px;
+}
